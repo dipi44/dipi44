@@ -1,4 +1,8 @@
-<!-- Encabezado con animación de typing -->
+<!-- Imagen de fondo estilo cabecera moderna -->
+<p align="center">
+  <img src="https://i.imgur.com/6RLK1I5.png" width="100%" alt="banner" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=¡Hola,+soy+Orion!;Desarrollador+Multiplataforma+en+proceso...;Apasionado+por+el+Backend+y+la+tecnología.&center=true&width=500&height=50" />
 </h1>
@@ -10,16 +14,19 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header"/>
+</div>
 
-🎓 Estudiante de <strong>Desarrollo de Aplicaciones Multiplataforma</strong>  
-💻 En proceso de convertirme en desarrollador <strong>Backend & Full Stack</strong>  
-🎯 Objetivo: Crear software útil, escalable y bien diseñado  
-🌍 Me interesa la tecnología, la inteligencia artificial y los sistemas multiplataforma
+## 🧠 Sobre mí
+
+🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**  
+🎯 Mi objetivo es dominar el desarrollo backend y construir apps eficientes, modernas y funcionales  
+💻 Me entusiasman los proyectos donde se combinan creatividad, lógica y buenas prácticas
 
 ---
 
-## 🛠️ Stack actual
+## 🛠️ Tecnologías que uso
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,mysql,html,css,git,photoshop" />
@@ -27,63 +34,51 @@
 
 ---
 
-## 📚 Proyectos destacados
+## 🧪 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías | Estado |
 |---------|-------------|-------------|--------|
-| 🎒 **InventoryApp** | App de escritorio para gestionar inventario de productos | JavaFX · SQLite · MVC | 🔧 Desarrollo |
-| 📝 **NotesMobile** | App móvil para tomar notas sincronizadas | Kotlin · Firebase · MVVM | 🧪 Pruebas |
-| 📋 **Task Tracker Web** | Gestor de tareas para estudiantes | HTML · CSS · Java · MySQL | 💡 Idea inicial |
+| 🎒 **InventoryApp** | App para gestión de inventario | JavaFX · SQLite · MVC | 🔧 Desarrollo |
+| 📝 **NotesMobile** | App de notas educativas | Kotlin · Firebase | 🧪 Pruebas |
+| 📋 **Task Tracker Web** | Gestor web de tareas | HTML · CSS · Java · MySQL | 💡 En idea |
 
 ---
 
-## 📈 Mis estadísticas
+## 📊 Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oriondev&show_icons=true&theme=tokyonight&hide=issues" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriondev&layout=compact&theme=tokyonight" height="150"/>
-</div>
-
----
-
-## 🚀 Retos para 2025
-
-- [x] Dominar POO y estructuras en Java
-- [x] Aprender a usar Firebase con Kotlin
-- [ ] Crear mi primera app completa en Android
-- [ ] Aprender Spring Boot y APIs REST
-- [ ] Colaborar en un proyecto Open Source real
-
----
-
-## 🤝 Contacto
-
-<p>
-📬 <strong>Email:</strong> <a href="mailto:dipi44@hotmail.com">dipi44@hotmail.com</a>  
-💼 <strong>LinkedIn:</strong> (próximamente)  
-🌐 <strong>Portafolio:</strong> en construcción
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipi44&show_icons=true&theme=tokyonight&hide=issues" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipi44&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-## ✨ Inspiración
+## 🚀 Retos para este año
 
-> “Los programas deben escribirse para que los lean las personas y solo incidentalmente para que los ejecuten las máquinas.”  
-> — Harold Abelson
+- [x] Consolidar fundamentos de Java y OOP  
+- [x] Construir una app real con base de datos  
+- [ ] Aprender Spring Boot  
+- [ ] Lanzar mi primer proyecto en GitHub Pages  
+- [ ] Contribuir en un proyecto open-source  
 
-> “Primero resuelve el problema. Luego, escribe el código.”  
-> — John Johnson
+---
+
+## 💬 Contacto
+
+📧 dipi44@hotmail.com  
+🌍 GitHub: [github.com/oriondev](https://github.com/oriondev)  
+📌 Portafolio: *en construcción*
 
 ---
 
 <details>
-<summary><strong>📊 Actividad reciente</strong></summary>
+<summary>📈 Actividad reciente</summary>
 <br/>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=oriondev&theme=tokyo-night" />
 </details>
 
----
-
 <p align="center">
-  <b>Gracias por visitar mi perfil 💙 ¿Colaboramos en algo genial?</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer"/>
 </p>
+
+<p align="center"><strong>¡Gracias por visitar mi perfil! 🌟</strong></p>
