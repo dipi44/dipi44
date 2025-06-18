@@ -1,6 +1,6 @@
 <!-- 🌄 Fondo superior moderno y verificado -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=1600&q=80" width="100%" height="300px" style="border-radius: 20px;" />
+  <img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=1600&q=80" width="100%" style="border-radius: 20px;" />
 </p>
 
 <!-- ⌨️ Texto animado estilo máquina de escribir -->
@@ -72,8 +72,8 @@
 
 <h2>📊 Estadísticas de GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oriondev&show_icons=true&theme=tokyonight&hide=issues" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriondev&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dipi44&show_icons=true&theme=tokyonight&hide=issues" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipi44&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 <hr>
