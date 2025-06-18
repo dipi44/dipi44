@@ -10,7 +10,7 @@
 
 <!-- Título cápsula separado y limpio -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:cad3e2,100:f4f6fa&text=Bienvenido%20a%20mi%20GitHub&fontColor=3d3d3d&height=100&fontSize=24" />
+  <img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=1600&q=80" width="100%" height="300px" style="border-radius: 20px;" />
 </p>
 
 <p align="center">
