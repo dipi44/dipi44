@@ -91,7 +91,7 @@
 <h2>📬 Contacto</h2>
 <ul>
   <li>Email: <a href="mailto:dipi44@hotmail.com">dipi44@hotmail.com</a></li>
-  <li>GitHub: <a href="https://github.com/oriondev" target="_blank">github.com/oriondev</a></li>
+  <li>GitHub: <a href="https://github.com/dipi44" target="_blank">github.com/dipi44</a></li>
   <li>Portafolio: <em>en desarrollo</em></li>
 </ul>
 
