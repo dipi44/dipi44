@@ -99,7 +99,8 @@
 
 <details>
   <summary><strong>📈 Actividad reciente</strong></summary>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dipi44&theme=github-compact" />
+  <!-- Endpoint alternativo en Vercel -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipi44&theme=github-compact" alt="Gráfico de actividad de GitHub" />
 </details>
 
 <hr>
