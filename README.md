@@ -1,8 +1,7 @@
 <!-- 🌄 Fondo superior moderno y verificado -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=1600&q=80" width="100%" style="border-radius: 20px;" />
+  <img src="https://cdn.mos.cms.futurecdn.net/CYsxKnxkvHpiRkXqZomC3V.jpg" width="100%" style="border-radius: 20px;" />
 </p>
-
 <!-- ⌨️ Texto animado estilo máquina de escribir -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hola%2C+soy+Orion;Estudiante+DAM;Apasionado+por+el+backend+y+las+tecnolog%C3%ADas" alt="Typing SVG" />
