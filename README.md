@@ -29,8 +29,8 @@
 
 <h2>📈 Estadísticas de GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oriondev&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriondev&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dipi44&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipi44&layout=compact&theme=radical" height="150" />
 </p>
 
 <hr>
