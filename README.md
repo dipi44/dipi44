@@ -99,7 +99,7 @@
 
 <details>
   <summary><strong>📈 Actividad reciente</strong></summary>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=oriondev&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dipi44&theme=github-compact" />
 </details>
 
 <hr>
