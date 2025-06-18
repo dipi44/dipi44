@@ -1,6 +1,6 @@
 <!-- 🌄 Fondo superior moderno y verificado -->
 <p align="center">
-  <img src="https://cdn.mos.cms.futurecdn.net/CYsxKnxkvHpiRkXqZomC3V.jpg" width="100%" style="border-radius: 20px;" />
+  <img src="https://cdn.mos.cms.futurecdn.net/LFy532AZ8Y5XJQYJ26DvAG-650-80.jpg.webp" width="100%" style="border-radius: 20px;" alt="Cinturón de Orión" />
 </p>
 <!-- ⌨️ Texto animado estilo máquina de escribir -->
 <div align="center">
